@@ -34,7 +34,7 @@ pip install -r requirements.txt
 通过执行主 Python 脚本来运行应用程序：
 
 ```bash
-python tts.py
+python app.py
 ```
 
 ## 贡献
