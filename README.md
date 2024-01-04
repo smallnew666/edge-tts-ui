@@ -2,6 +2,10 @@
 #edge-tts-ui
 
 这个应用程序是一个使用 `edge-tts` 库和 PyQt5 创建的文本转语音（TTS）工具。它允许用户输入文本，从多种声音中选择，并生成 MP3 格式的语音输出。
+
+## 界面预览
+![image](https://github.com/smallnew666/edge-tts-ui/assets/24582880/26a706ad-9f18-4b8e-9d66-cdf3a18f3582)
+
 ## 特性
 - 输入文本以生成语音。
 - 选择不同的声音进行语音合成。
@@ -33,10 +37,11 @@ pip install -t requirements.txt
 python tts.py
 ```
 
-## 界面概览 
-
 ## 贡献
-感谢
+
+感谢开源项目：
+[https://github.com/xfgryujk/blivedm](https://github.com/rany2/edge-tts)https://github.com/rany2/edge-tts
+
 ## 许可证
 
 本项目根据 [MIT 许可证]()  授权。
