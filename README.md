@@ -4,7 +4,7 @@
 这个应用程序是一个使用 `edge-tts` 库和 PyQt5 创建的文本转语音（TTS）工具。它允许用户输入文本，从多种声音中选择，并生成 MP3 格式的语音输出。
 
 ## 界面预览
-![image](https://github.com/smallnew666/edge-tts-ui/assets/24582880/26a706ad-9f18-4b8e-9d66-cdf3a18f3582)
+![00](https://github.com/smallnew666/edge-tts-ui/assets/24582880/67474188-29bc-48af-91c6-8ad5ad823ea8)
 
 ## 特性
 - 输入文本以生成语音。
