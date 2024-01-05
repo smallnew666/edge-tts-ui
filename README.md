@@ -23,7 +23,7 @@
 要使用该应用程序，请克隆此仓库并安装所需的依赖项：
 
 ```bash
-git clone https://github.com/smallnew666/edge-tts-ui.git
+git clone https://github.com/smallnew666/edge-tts.git
 cd edge-tts-ui
 pip install -r requirements.txt
 ```
