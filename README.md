@@ -40,7 +40,7 @@ python app.py
 ## 贡献
 
 感谢开源项目：
-[(https://github.com/rany2/edge-tts)]https://github.com/rany2/edge-tts
+https://github.com/rany2/edge-tts
 
 ## 许可证
 
